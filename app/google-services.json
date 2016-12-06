@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736942062826",
+    "firebase_url": "https://entregable5-1216f.firebaseio.com",
+    "project_id": "entregable5-1216f",
+    "storage_bucket": "entregable5-1216f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736942062826:android:df4465e801902cca",
+        "android_client_info": {
+          "package_name": "com.saculaf.mobile.entregable5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736942062826-6sln4tqrhtoqdif28q8njsritn5qa48k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saculaf.mobile.entregable5",
+            "certificate_hash": "F25F40D84BC8E4ADE0AAB6D643A9E267C23058CD"
+          }
+        },
+        {
+          "client_id": "736942062826-1cc9uf69jp29r79ri8kgrsn9a0nvf5du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVsXxKJnV2tUel7-x85Un82MAiV6xtoqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736942062826-1cc9uf69jp29r79ri8kgrsn9a0nvf5du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
